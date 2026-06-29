@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# PHP / web
+vendor/
+node_modules/
+*.log
+
+# Local environment and secrets
+.env
+.env.*
+config.php
